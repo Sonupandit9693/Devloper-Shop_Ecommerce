@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/checkout": "pages/checkout.js",
+  "/sticker": "pages/sticker.js",
+  "/mugs": "pages/mugs.js",
+  "/hoodies": "pages/hoodies.js",
+  "/login": "pages/login.js",
+  "/tshirts": "pages/tshirts.js"
+}
